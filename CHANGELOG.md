@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 
 ### Changed
-- Raised MSRV to 1.62.0
+- Raised MSRV to 1.84.0
+- Set `resolver = "3"`, which implies `resolver.incompatible-rust-versions = "fallback"`
 
 ## [v1.1.0] - 2023-03-07
 
